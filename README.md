@@ -1,3 +1,3 @@
 # sandbox
 
-template repository for class activity on git and github in pstat197a
+template repository for class activity on git actions and github in pstat197a
