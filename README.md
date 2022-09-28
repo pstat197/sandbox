@@ -1,3 +1,3 @@
 # sandbox
 
-repo for class activity on git actions in pstat197
+repository for class activity on git actions in pstat197
